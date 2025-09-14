@@ -35,7 +35,7 @@ A Django-based backend with Gunicorn integration, Dockerized deployment, and CI/
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pascalnehlsen&hide=issues&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathan-priebe&hide=issues&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
