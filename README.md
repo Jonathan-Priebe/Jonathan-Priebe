@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm passionate about secure software development, 
 
 ## 🚀 Projects
 
-### 🛡️ conduit-backend  
-A Django-based backend with Gunicorn integration, Dockerized deployment, and CI/CD support.  
-> Focus: secure infrastructure, clean containerization, Git submodule handling
+### 🐳 Conduit Container Setup  
+A complete Docker-based environment for the RealWorld Conduit App, featuring an Angular frontend and Django backend.  
+> Designed for fast onboarding, secure development, and modular testing — ideal for learning, collaboration, or building your own fullstack applications.
 
-📁 [View Project](https://github.com/Jonathan-Priebe/conduit-backend/tree/dev-abgabe)
+📁 [View Repository](https://github.com/Jonathan-Priebe/Conduit-Container-Setup)
 
 ---
 
