@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about secure software development, 
 A complete Docker-based environment for the RealWorld Conduit App, featuring an Angular frontend and Django backend.  
 > Designed for fast onboarding, secure development, and modular testing — ideal for learning, collaboration, or building your own fullstack applications.
 
-📁 [View Repository](https://github.com/Jonathan-Priebe/Conduit-Container-Setup)
+📁 [View Repository](https://github.com/Jonathan-Priebe/conduit-container-setup)
 
 ---
 
