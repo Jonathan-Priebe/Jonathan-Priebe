@@ -2,7 +2,7 @@
 
 **DevSecOps Enthusiast | Pentesting Trainee | Infrastructure Automation Advocate**
 
-Welcome to my GitHub profile! I'm passionate about secure software development, automated CI/CD pipelines, and building resilient infrastructure with a strong focus on Security-by-Design.
+Welcome to my GitHub Page! I'm passionate about secure software development, automated CI/CD pipelines, and building resilient infrastructure with a strong focus on Security-by-Design.
 
 ---
 
