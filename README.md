@@ -1,6 +1,6 @@
 # 👨‍💻 Jonathan Priebe
 
-**DevSecOps Enthusiast | Pentesting Trainee | Infrastructure Automation Advocate**
+**DevSecOps Enthusiast | Pentesting Trainee | Infrastructure Automation Advocate | Data Protection Officer (DPO)**
 
 Welcome to my GitHub Page! I'm passionate about secure software development, automated CI/CD pipelines, and building resilient infrastructure with a strong focus on Security-by-Design.
 
