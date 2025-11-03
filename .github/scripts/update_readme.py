@@ -105,7 +105,7 @@ def update_readme():
             repo_name = repo_name_match.group(1) if repo_name_match else "Project"
             
             # Get README excerpt
-            excerpt = get_readme_excerpt(repo_url, max_lines=4)
+            excerpt = get_readme_excerpt(repo_url, max_lines=2)
             
             # Build new project section
             new_project_section = f'''### 🎮 {repo_name}
