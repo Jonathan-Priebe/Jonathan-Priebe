@@ -25,12 +25,12 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 ## 🚀 Currently Working On
 
 <!-- PROJECT_START -->
-### 🎮 pkmn-wfc-server-docker-setup
+### 🎮 conduit-container-setup
 
-> Docker-based setup for running a Pokémon Wi-Fi Connection (WFC) server to enable online features for Nintendo DS/Wii Pokémon games.
-## Table of Contents
-- [Architecture](#architecture)
-- [Features](#features)
+> This repository provides a complete Docker-based setup for the RealWorld Conduit App, featuring an Angular frontend and a Django backend. It's designed to offer a ready-to-run development and testing environment—perfect for learning, collaboration, or building your own fullstack applications.
+## Project Handover  
+📄 [Conduit Container Checkliste PDF](<./Conduit Container Checkliste.pdf>)
+📄 [Conduit Deployment Checkliste PDF](<./Conduit Deployment Checkliste.pdf>)
 
 📁 [View Repository](https://github.com/jonathan-priebe/conduit-container-setup)
 
