@@ -25,10 +25,12 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 ## 🚀 Currently Working On
 
 <!-- PROJECT_START -->
-
 ### 🎮 pkmn-wfc-server-docker-setup
 
-> Docker-based setup for running a Pokémon Wi-Fi Connection (WFC) server to enable online features for Nintendo DS/Wii Pokémon games. This setup allows you to host your own server for games like Pokémon Diamond, Pearl, Platinum, HeartGold, SoulSilver, Black, White, Black 2, and White 2.
+> Docker-based setup for running a Pokémon Wi-Fi Connection (WFC) server to enable online features for Nintendo DS/Wii Pokémon games.
+## Table of Contents
+- [Architecture](#architecture)
+- [Features](#features)
 
 📁 [View Repository](https://github.com/jonathan-priebe/pkmn-wfc-server-docker-setup)
 
