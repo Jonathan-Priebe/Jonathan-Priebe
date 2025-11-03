@@ -32,7 +32,7 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 📄 [Conduit Container Checkliste PDF](<./Conduit Container Checkliste.pdf>)
 📄 [Conduit Deployment Checkliste PDF](<./Conduit Deployment Checkliste.pdf>)
 
-📁 [View Repository](https://github.com/jonathan-priebe/conduit-container-setup)
+📁 [View Repository](https://github.com/jonathan-priebe/pkmn-wfc-server-docker-setup)
 
 <!-- PROJECT_END -->
 
