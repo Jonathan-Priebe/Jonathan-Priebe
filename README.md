@@ -32,7 +32,7 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 - [Architecture](#architecture)
 - [Features](#features)
 
-📁 [View Repository](https://github.com/jonathan-priebe/pkmn-wfc-server-docker-setup)
+📁 [View Repository](https://github.com/jonathan-priebe/conduit-container-setup)
 
 <!-- PROJECT_END -->
 
