@@ -25,10 +25,9 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 ## 🚀 Currently Working On
 
 <!-- PROJECT_START -->
-### 🎮 pkmn-wfc-server-docker-setup
+### 🎮 dwc-server-container-setup
 
-> A Docker-based setup for hosting a custom Nintendo Wi-Fi Connection (WFC) server, enabling online functionality for various Nintendo DS and Wii titles — including, but not limited to, Pokémon games.
-<div align="left">
+> dwc-server-container-setup
 
 📁 [View Repository](https://github.com/jonathan-priebe/dwc-server-container-setup)
 
