@@ -27,7 +27,7 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 <!-- PROJECT_START -->
 ### 🎮 dwc-server-container-setup
 
-> Modern Nintendo DS/Wii Wi-Fi Connection Server Emulator with Django Admin Panel and Pokemon GTS support.
+> A Docker-based setup for hosting a custom Nintendo Wi-Fi Connection (WFC) server, enabling online functionality for various Nintendo DS and Wii titles with Django Admin Panel and Pokemon GTS support.
 ## Table of Contents
 
 📁 [View Repository](https://github.com/jonathan-priebe/dwc-server-container-setup)
